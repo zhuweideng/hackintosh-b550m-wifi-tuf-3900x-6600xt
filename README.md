@@ -1,6 +1,7 @@
 # 黑苹果 OpenCore配置 for ASUS TUF B550M-WIFI 3900X 6600xt
 
 ## 更新日志
+- 21年12月08日 opencore 升级到 0.7.6 正式版  
 - 21年11月18日 opencore 升级到 0.7.5 正式版  
 
 ## 硬件配置
