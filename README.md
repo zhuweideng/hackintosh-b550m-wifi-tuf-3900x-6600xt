@@ -1,4 +1,6 @@
 # 黑苹果 OpenCore配置 for ASUS TUF B550M-WIFI 3900X 6600xt
+# wifi 蓝牙 失效（重要）
+> 关机断电，长按电源键10s，再通电开机
 
 ## 更新日志
 - 21年12月08日 opencore 升级到 0.7.6 正式版  
