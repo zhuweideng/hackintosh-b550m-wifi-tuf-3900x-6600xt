@@ -37,11 +37,13 @@
 - [Intel无线网卡](
 https://github.com/OpenIntelWireless/itlwm/releases)
 - [AMD Vanilla OpenCore](https://github.com/AMD-OSX/AMD_Vanilla)
+- [AMD Processor](https://github.com/trulyspinach/SMCAMDProcessor) SMCAMDProcessor
 
 ## AMD cpu 配置
 - [资源地址](https://github.com/AMD-OSX/AMD_Vanilla)
  > 说明:不同的CPU根据修改内核参数就可以修改
  > 项目根目录有 5800x 配置的config.plist 文件
+ > AppleMCEReporterDisabler 包含在此项目中
 
 ## 无线网卡 AX 200
  > 引入AirportItlwm.kext 并配置 config->Kernel->Add
