@@ -38,6 +38,8 @@
 https://github.com/OpenIntelWireless/itlwm/releases)
 - [AMD Vanilla OpenCore](https://github.com/AMD-OSX/AMD_Vanilla)
 - [AMD Processor](https://github.com/trulyspinach/SMCAMDProcessor) SMCAMDProcessor
+- [LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet)
+- [驱动更新列表 2020年7月](https://heipg.cn/drivers/drivers-for-hackintosh-202007.html)
 
 ## AMD cpu 配置
 - [资源地址](https://github.com/AMD-OSX/AMD_Vanilla)
