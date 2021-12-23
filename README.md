@@ -50,6 +50,10 @@ https://github.com/OpenIntelWireless/itlwm/releases)
 ## 无线网卡 AX 200
  > 引入AirportItlwm.kext 并配置 config->Kernel->Add
 
+ ## intel蓝牙修复项目
+ > https://github.com/zxystd/IntelBTPatcher
+ > https://bbs.pcbeta.com/viewthread-1916151-3-1.html
+
 ## 蓝牙 针对 Monterey 需要进行特殊配置
  > 1.确保IntelBluetoothFirmware.kext 最近版本
  > 2.删除IntelBluetoothInjector.kext 并移除 config->Kernel->Add->IntelBluetoothInjector.kext
