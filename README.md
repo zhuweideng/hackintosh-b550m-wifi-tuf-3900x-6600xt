@@ -40,7 +40,7 @@ https://github.com/OpenIntelWireless/itlwm/releases)
 - [AMD Processor](https://github.com/trulyspinach/SMCAMDProcessor) SMCAMDProcessor
 - [LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet)
 - [驱动更新列表 2020年7月](https://heipg.cn/drivers/drivers-for-hackintosh-202007.html)
-
+- [windows 驱动下载列表](https://www.asus.com.cn/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B550M-PLUS-WI-FI/HelpDesk_Download/)
 ## AMD cpu 配置
 - [资源地址](https://github.com/AMD-OSX/AMD_Vanilla)
  > 说明:不同的CPU根据修改内核参数就可以修改
